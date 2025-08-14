@@ -1,5 +1,5 @@
 # Pengalaman_belajar
-nek iki testing loro ges
+ini commit pertama
 Pengalaman Belajar di Dicoding
 
 **14 Juni 2021** <br>
