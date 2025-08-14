@@ -1,5 +1,4 @@
 # Pengalaman_belajar
-ini testing mau buat error alias conflict 
 Pengalaman Belajar di Dicoding
 
 **14 Juni 2021** <br>
